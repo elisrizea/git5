@@ -1,0 +1,9 @@
+Master branch start here
+
+Develop branch will start from master and it will merge with master when released will occur.
+
+All feature brances will start from Develop branch and will merge wiyh it when finished.
+
+Hotfix branch may branch from master and merge with it later to repair a bug fast and not affect development process.
+
+
